@@ -20,7 +20,7 @@ export default function SideNavbar() {
   ];
 
   return (
-    <aside className="bg-slate-900 h-screen w-18 flex flex-col justify-between items-center border-r border-slate-800" style={{height:"750px"}}>
+    <aside className="bg-slate-900 h-screen w-18 flex flex-col justify-between items-center border-r border-slate-800" style={{height:"780px"}}>
       {/* Top section */}
       <div className="flex flex-col items-center">
         <img
